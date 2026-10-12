@@ -5,7 +5,7 @@ import os
 from html import escape
 
 # ---------------- CONFIG ----------------
-USER, HOST = "shad", "github"
+USER, HOST = "shaad0650", "github"
 ROWS = [  # (key, [lines])  keep each line <= ~42 chars
     ("Now",        ["Backend Intern @ Harman International", "Building AI agents for test-bench work"]),
     ("Edu",        ["IIIT DM Jabalpur, class of 2027"]),
