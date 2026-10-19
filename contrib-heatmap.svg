@@ -381,8 +381,9 @@
 <rect class="c" x="805" y="104" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.21s"><title>1 on 2026-10-15</title></rect>
 <rect class="c" x="805" y="119" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.23s"><title>1 on 2026-10-16</title></rect>
 <rect class="c" x="805" y="134" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.25s"><title>1 on 2026-10-17</title></rect>
-<rect class="c" x="820" y="44" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.14s"><title>0 on 2026-10-18</title></rect>
-<text x="40" y="183">64 contributions in the last year  |  streak 6d  |  longest 6d</text>
+<rect class="c" x="820" y="44" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.14s"><title>1 on 2026-10-18</title></rect>
+<rect class="c" x="820" y="59" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.17s"><title>0 on 2026-10-19</title></rect>
+<text x="40" y="183">65 contributions in the last year  |  streak 7d  |  longest 7d</text>
 <text x="654" y="183">Less</text>
 <rect x="688" y="174" width="12" height="12" rx="3" fill="#161b22"/>
 <rect x="704" y="174" width="12" height="12" rx="3" fill="#0e4429"/>
