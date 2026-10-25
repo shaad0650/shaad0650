@@ -1,8 +1,8 @@
 {
  "user": "shaad0650",
- "total": 70,
- "current_streak": 12,
- "longest_streak": 12,
+ "total": 71,
+ "current_streak": 13,
+ "longest_streak": 13,
  "best_day": {
   "date": "2026-01-12",
   "count": 11,
@@ -21,44 +21,9 @@
   "2026-07": 3,
   "2026-08": 0,
   "2026-09": 8,
-  "2026-10": 20
+  "2026-10": 21
  },
  "days": [
-  {
-   "date": "2025-10-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-22",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-23",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-24",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-25",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-10-26",
    "count": 0,
@@ -1876,6 +1841,11 @@
   },
   {
    "date": "2026-10-24",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-10-25",
    "count": 0,
    "level": 0
   }
